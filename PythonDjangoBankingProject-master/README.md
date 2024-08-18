@@ -17,4 +17,4 @@ Banking  and financial project using python django and Mysql
 ![Screenshot (181)](https://github.com/Mohan-Pasalapudi/PythonDjangoBankingProject/assets/93028304/b08f308b-cdbe-476f-80f4-6b5dadc63180)
 ![Screenshot (180)](https://github.com/Mohan-Pasalapudi/PythonDjangoBankingProject/assets/93028304/e01b3747-44eb-48ee-9285-c2b63f1e5ebb)
 ![Screenshot (179)](https://github.com/Mohan-Pasalapudi/PythonDjangoBankingProject/assets/93028304/aeec615a-d8e1-42b7-a6bb-9b1a55eaaef0)
-![Screenshot (196)](https://github.com/Mohan-Pasalapudi/PythonDjangoBankingProject/assets/93028304/4b392908-3fed-4567-b40d-49128a0d8403)
+
